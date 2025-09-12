@@ -20,4 +20,5 @@ def two_sum_pairs(numbers, target):
     Returns:
         A list of sets containing the two values that sum to the target.
     """
-    # TODO A list of sets containing the two values that sum to the target.
+
+
